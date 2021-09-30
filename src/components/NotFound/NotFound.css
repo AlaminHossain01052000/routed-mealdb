@@ -1,0 +1,33 @@
+.error-dom{
+    text-align: center;
+    
+}
+.error-dom h1{
+    font-size: 72px;
+    background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+    font-weight: 800;
+}
+.error-dom h2{
+color:black;
+font-size: 26px;
+}
+.error-dom h3{
+    color:gray;
+    font-size: 24px;
+    width:50%;
+    
+    margin: 10px auto;
+    }
+    .error-button{
+        background-color: #ff6b6b;
+        border-radius: 20px;
+        border-width: 0px;
+        padding: 5px 20px;
+        color:white;
+        font-weight: 500;
+    }
+    .error-button:hover{
+        text-decoration: underline;
+    }
